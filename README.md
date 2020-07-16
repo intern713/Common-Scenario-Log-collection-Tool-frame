@@ -1,2 +1,3 @@
 # Common-Scenario-Log-collection-Tool-frame
-Instructionn
+Instructions
+What the script will gather?
